@@ -10,5 +10,5 @@ A simple AI to teach Chrome's dinosaur to jump obstacles using genetic algorithm
 
 * Install dependencies: `pip install -r requirements.txt`
 * Running the AI: `python ai.py`
-* After 5/8 generations, the dino should be a ninja!
+* For Mac OS systems only. Unless, you tweak the code!
 
